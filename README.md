@@ -1,5 +1,6 @@
 ## Olá!
-Perfil dedicado a projetos para portifólio.
+Me chamo Guilherme tenho 20 anos e estou cursando Engenharia de Software.
+Atualmente estou estudando Python para Backend e destinei este perfil para projetos.
 
 <!--
 **guigoEduardo/guigoEduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
