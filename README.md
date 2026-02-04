@@ -1,6 +1,6 @@
 ## Olá!
 Me chamo Guilherme e estou cursando Engenharia de Software, sou apaixonado por tecnologia e inovação.
-Atualmente estudo Python para Backend e destinei este perfil para projetos.
+Atualmente estudo Java para Backend e destinei este perfil para projetos.
 
 <!--
 **guigoEduardo/guigoEduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
